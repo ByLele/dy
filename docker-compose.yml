@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockerpython:
+    image: dockerpython
+    build:
+      context: .
+      dockerfile: ./Dockerfile
