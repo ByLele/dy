@@ -1,0 +1,19 @@
+{
+    "parent": {
+      "type": "database_id",
+      "database_id": ""
+    },
+    "properties": {
+        "UP": {
+            "title":[{"text":{"content":"tomato"} }]
+        },
+        "news": {
+            "text": {"content":"aaaaaaaaaaaaaaa"}
+        },
+        "Last ordered": {
+            "date": {"date":""}
+        }
+
+    }
+
+}

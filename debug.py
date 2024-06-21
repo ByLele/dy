@@ -10,3 +10,8 @@ def hello():
         print(i)
 
 hello()
+
+import sys
+print(sys.path)
+sys.path.append("./utils/Setting.py")
+print(sys.path)
